@@ -40,7 +40,7 @@ const Product = () => {
     return (
         
         <div className="container">
-            <h1>Product Detail Page</h1>
+            <h1>Product's Details Page</h1>
             {loading ? (
                 <div className={"loader"}></div>
             ) : (
